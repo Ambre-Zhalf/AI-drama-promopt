@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说转分镜提示词"
+  short_description: "把小说分段改成分镜，产出元素清单、图片提示词与六段 JSON 视频提示词"
+  default_prompt: "使用 $promopt-for-drama 把这篇小说改成分镜，列出每镜人物、场景、道具，写图片提示词，再按我给的编号位输出视频提示词。"
